@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FoodApp</string>
+
+    <string name="slogan">This is the app you need, yo will find everything you want and need.</string>
 </resources>
