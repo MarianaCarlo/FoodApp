@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mari-/Desktop/foodAppAndroid/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mari-/Desktop/foodAppAndroid/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/mari-/Desktop/foodAppAndroid/FoodApp/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/mari-/Desktop/foodAppAndroid/FoodApp/app/src/main/res/layout/activity_sing_in.xml" value="0.1" />
         <entry key="..\:/Users/mari-/Desktop/foodAppAndroid/FoodApp/app/src/main/res/mipmap-anydpi-v26/background-blue.xml" value="0.10885416666666667" />
       </map>
     </option>
